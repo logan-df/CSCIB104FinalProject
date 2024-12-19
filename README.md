@@ -1,1 +1,1 @@
-# CSCIB104FinalProject
+This repository holds the code for a project for CSCI B104, Computer Programming Techniques, at the University of South Carolina Beaufort. Everything was written and designed by Logan Ford and Soeren Hohmann.
